@@ -1,0 +1,28 @@
+{
+  "name": "grant-express",
+  "version": "3.4.0",
+  "description": "OAuth Middleware for Express",
+  "keywords": [
+    "oauth",
+    "oauth2",
+    "authentication",
+    "middleware",
+    "express"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Simeon Velichkov",
+    "email": "simeonvelichkov@gmail.com",
+    "url": "http://simov.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simov/grant.git"
+  },
+  "dependencies": {
+    "grant": "git://github.com/szafarcin/grant.git"
+  },
+  "peerDependencies": {
+    "express": ">=3.x.x"
+  },
+}
